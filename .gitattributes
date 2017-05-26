@@ -3,3 +3,5 @@ csky-abiv2-linux-tools-x86_64-glibc-linux-4.9.2-20170228.tar.gz filter=lfs diff=
 csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz filter=lfs diff=lfs merge=lfs -text
 csky-abiv2-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz filter=lfs diff=lfs merge=lfs -text
 csky-elf-tools-x86_64-minilibc-20161211.tar.gz filter=lfs diff=lfs merge=lfs -text
+csky-abiv2-linux-tools-x86_64-uclibc-linux-4.9.25-20170521.tar.gz filter=lfs diff=lfs merge=lfs -text
+csky-linux-tools-x86_64-uclibc-linux-4.9.25-20170521.tar.gz filter=lfs diff=lfs merge=lfs -text
