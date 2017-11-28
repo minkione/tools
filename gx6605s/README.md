@@ -11,3 +11,6 @@
 boot.elf --help 可以先看下帮助
 
 boot.elf -b gx6605s-6605s-sflash.boot -d /dev/ttyUSB0 -c serialdown loader-sflash.bin
+
+* /dev/ttyUSB0 是链接诛仙剑的串口
+* 命令执行完成后，要按下板子上的复位键，在micro-usb接口旁边！
